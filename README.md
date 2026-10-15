@@ -19,10 +19,10 @@ The College Attendance Management System is a web-based project designed to simp
 To develop a simple web application that makes college attendance tracking easier, faster, and more organized.
 
 ## 👩‍💻 Author
-Yajush Sadana 
-Vaibhav Thakur
-Vinit Kumar
-Zeba Kauser
+- Yajush Sadana 
+- Vaibhav Thakur
+- Vinit Kumar
+- Zeba Kauser
 
 ## 📄 License
 This project is created for educational purposes.# Attendance-System-Project
